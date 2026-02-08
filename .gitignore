@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# IDE standard ignores
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+out/
+/build/
